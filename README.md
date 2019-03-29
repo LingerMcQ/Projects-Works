@@ -1,4 +1,4 @@
-## Hi! I'm Laurent. Welcome to my projects & works list.
+# Hi! I'm Laurent. Welcome to my projects & works list.
 
 #### Gradient Generator
 - link: https://lingermcq.github.io/GradientGenerator.github.io/
